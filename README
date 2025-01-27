@@ -1,1 +1,2 @@
 LaravelProjects
+Por cada subida al github (sin git) crearemos una rama tipo "v1" así sabemos, su origen será "main" así esa rama solo tendra el README y estará limpia, una vez haya finalizado la actividad se eliminan todas las ramas, quedandonos únicamente con "main".
